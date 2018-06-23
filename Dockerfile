@@ -1,5 +1,4 @@
-# DEVUAN Scratch Base (https://github.com/agabert/flawless)
-FROM agabert/flawless
+FROM qxip/devuan:ascii
 
 MAINTAINER "L. Mangani <lorenzo.mangani@gmail.com>"
 
